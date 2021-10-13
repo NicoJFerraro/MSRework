@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: eace5079a876995489cd0a36e78732c4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: FocosBajos
+    100002: //RootNode
+    100004: FocosSoporte
+    100006: Light081
+    100008: Light083
+    100010: Light085
+    100012: Light087
+    100014: Light089
+    100016: Light091
+    100018: Light093
+    100020: Light095
+    100022: Light097
+    100024: Light099
+    100026: Light105
+    100028: Light107
+    100030: Light109
+    100032: Light111
+    100034: Light112
+    100036: Light114
+    100038: Light116
+    100040: Light118
+    100042: Light120
+    100044: Light122
+    400000: FocosBajos
+    400002: //RootNode
+    400004: FocosSoporte
+    400006: Light081
+    400008: Light083
+    400010: Light085
+    400012: Light087
+    400014: Light089
+    400016: Light091
+    400018: Light093
+    400020: Light095
+    400022: Light097
+    400024: Light099
+    400026: Light105
+    400028: Light107
+    400030: Light109
+    400032: Light111
+    400034: Light112
+    400036: Light114
+    400038: Light116
+    400040: Light118
+    400042: Light120
+    400044: Light122
+    2100000: No Name
+    2300000: FocosSoporte
+    2300002: Light081
+    2300004: Light083
+    2300006: Light085
+    2300008: Light087
+    2300010: Light089
+    2300012: Light091
+    2300014: Light093
+    2300016: Light095
+    2300018: Light097
+    2300020: Light099
+    2300022: Light105
+    2300024: Light107
+    2300026: Light109
+    2300028: Light111
+    2300030: Light112
+    2300032: Light114
+    2300034: Light116
+    2300036: Light118
+    2300038: Light120
+    2300040: Light122
+    3300000: FocosSoporte
+    3300002: Light081
+    3300004: Light083
+    3300006: Light085
+    3300008: Light087
+    3300010: Light089
+    3300012: Light091
+    3300014: Light093
+    3300016: Light095
+    3300018: Light097
+    3300020: Light099
+    3300022: Light105
+    3300024: Light107
+    3300026: Light109
+    3300028: Light111
+    3300030: Light112
+    3300032: Light114
+    3300034: Light116
+    3300036: Light118
+    3300038: Light120
+    3300040: Light122
+    4300000: FocosSoporte
+    4300002: Light091
+    4300004: Light107
+    4300006: Light093
+    4300008: Light111
+    4300010: Light109
+    4300012: Light112
+    4300014: Light099
+    4300016: Light097
+    4300018: Light105
+    4300020: Light089
+    4300022: Light095
+    4300024: Light114
+    4300026: Light085
+    4300028: Light087
+    4300030: Light081
+    4300032: Light083
+    4300034: Light122
+    4300036: Light120
+    4300038: Light118
+    4300040: Light116
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

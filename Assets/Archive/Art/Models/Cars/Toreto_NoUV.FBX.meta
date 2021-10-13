@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 8e6109eeedfadd549b77473e59445b2c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box132
+    100002: Box133
+    100004: Cylinder170
+    100006: Cylinder171
+    100008: Cylinder172
+    100010: Cylinder173
+    100012: Cylinder174
+    100014: Cylinder175
+    100016: Front_Steering_Mesh_2_R001
+    100018: Front_Steering_Mesh_2_R002
+    100020: Front_Steering_Mesh_2_R003
+    100022: Front_Steering_Mesh_2_R004
+    100024: Front_Wheel_Mesh_1_R001
+    100026: Front_Wheel_Mesh_1_R002
+    100028: Front_Wheel_Mesh_1_R003
+    100030: Front_Wheel_Mesh_1_R004
+    100032: M
+    100034: Rueda009
+    100036: Rueda010
+    100038: Rueda1
+    100040: Rueda3
+    100042: //RootNode
+    400000: Box132
+    400002: Box133
+    400004: Cylinder170
+    400006: Cylinder171
+    400008: Cylinder172
+    400010: Cylinder173
+    400012: Cylinder174
+    400014: Cylinder175
+    400016: Front_Steering_Mesh_2_R001
+    400018: Front_Steering_Mesh_2_R002
+    400020: Front_Steering_Mesh_2_R003
+    400022: Front_Steering_Mesh_2_R004
+    400024: Front_Wheel_Mesh_1_R001
+    400026: Front_Wheel_Mesh_1_R002
+    400028: Front_Wheel_Mesh_1_R003
+    400030: Front_Wheel_Mesh_1_R004
+    400032: M
+    400034: Rueda009
+    400036: Rueda010
+    400038: Rueda1
+    400040: Rueda3
+    400042: //RootNode
+    2100000: No Name
+    2100002: 2 - Default
+    2100004: 05 - Default
+    2300000: Box132
+    2300002: Box133
+    2300004: Cylinder170
+    2300006: Cylinder171
+    2300008: Cylinder172
+    2300010: Cylinder173
+    2300012: Cylinder174
+    2300014: Cylinder175
+    2300016: Front_Steering_Mesh_2_R001
+    2300018: Front_Steering_Mesh_2_R002
+    2300020: Front_Steering_Mesh_2_R003
+    2300022: Front_Steering_Mesh_2_R004
+    2300024: Front_Wheel_Mesh_1_R001
+    2300026: Front_Wheel_Mesh_1_R002
+    2300028: Front_Wheel_Mesh_1_R003
+    2300030: Front_Wheel_Mesh_1_R004
+    2300032: M
+    3300000: Box132
+    3300002: Box133
+    3300004: Cylinder170
+    3300006: Cylinder171
+    3300008: Cylinder172
+    3300010: Cylinder173
+    3300012: Cylinder174
+    3300014: Cylinder175
+    3300016: Front_Steering_Mesh_2_R001
+    3300018: Front_Steering_Mesh_2_R002
+    3300020: Front_Steering_Mesh_2_R003
+    3300022: Front_Steering_Mesh_2_R004
+    3300024: Front_Wheel_Mesh_1_R001
+    3300026: Front_Wheel_Mesh_1_R002
+    3300028: Front_Wheel_Mesh_1_R003
+    3300030: Front_Wheel_Mesh_1_R004
+    3300032: M
+    4300000: Box132
+    4300002: Box133
+    4300004: M
+    4300006: Cylinder172
+    4300008: Cylinder173
+    4300010: Front_Steering_Mesh_2_R001
+    4300012: Front_Wheel_Mesh_1_R001
+    4300014: Cylinder170
+    4300016: Front_Wheel_Mesh_1_R002
+    4300018: Cylinder171
+    4300020: Front_Steering_Mesh_2_R002
+    4300022: Front_Wheel_Mesh_1_R003
+    4300024: Cylinder174
+    4300026: Front_Steering_Mesh_2_R003
+    4300028: Front_Wheel_Mesh_1_R004
+    4300030: Cylinder175
+    4300032: Front_Steering_Mesh_2_R004
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

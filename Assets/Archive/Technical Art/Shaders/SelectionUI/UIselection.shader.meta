@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a25b9b2444a33dd44896a0f15684eb80
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Polvo: {fileID: 2800000, guid: fbc07ed64f80e0444bbb2d7df9dd3d1b, type: 3}
+  - _TextureSample2: {fileID: 2800000, guid: 70a480766fc699842b876748335e84f3, type: 3}
+  - _TextureSample1: {fileID: 2800000, guid: 70a480766fc699842b876748335e84f3, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

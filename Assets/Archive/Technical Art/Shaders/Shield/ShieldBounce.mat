@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShieldBounce
+  m_Shader: {fileID: 4800000, guid: 974ad9282520506468ec404cc899ab22, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _DmgBias: 0
+    - _DmgPower: 2.45
+    - _DmgScale: 0.5
+    - _EdgeLength: 15
+    - _Float0: 1
+    - _Float1: 4.31
+    - _Float2: 0.2
+    - _Float3: 0.05
+    - _Frec: 12
+    - _Opacity: 0.74
+    - _Pow: 1
+    - _Speed: -0.85
+    - _Tessellation: 3
+    - __dirty: 0
+    m_Colors:
+    - _Color: {r: 0.0235849, g: 1, b: 1, a: 0}
+    - _Color1: {r: 0, g: 1, b: 0.84313726, a: 0}
+    - _Color2: {r: 0.8254717, g: 1, b: 0.972623, a: 0}
+    - _DamageDir: {r: 1, g: 0, b: 0, a: 0}
+    - _Intencity: {r: 1.9999998, g: 1.9999998, b: 1.9999998, a: 0}
+    - _Vector0: {r: 0, g: 0, b: 1, a: 0}

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIselection4
+  m_Shader: {fileID: 4800000, guid: a25b9b2444a33dd44896a0f15684eb80, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Polvo:
+        m_Texture: {fileID: 2800000, guid: fbc07ed64f80e0444bbb2d7df9dd3d1b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 8400000, guid: 5f8de5d5086e6f44880038dcc78e1f76, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 70a480766fc699842b876748335e84f3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: 70a480766fc699842b876748335e84f3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _CantPolvo: 0.309
+    - _CantidadPolvo: 0.488
+    - _LEDtilingX: 80
+    - _LEDtilingY: 80
+    - _LedForce: 0.01
+    - _PixelsX: 150
+    - _PixelsY: 150
+    - _PolvoBrightness: 1.22
+    - _PolvoPower: 0.146
+    - __dirty: 0
+    m_Colors:
+    - _Color0: {r: 1, g: 0.5137255, b: 0.7278688, a: 0}

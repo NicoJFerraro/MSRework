@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: aaff9293d3c8c8d44b49e965cdc88171
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barra Ventilacion Atras052
+    100002: Barra Ventilacion Atras053
+    100004: Barra Ventilacion Atras054
+    100006: Barra Ventilacion Atras055
+    100008: Barra Ventilacion Atras056
+    100010: Barra Ventilacion Atras057
+    100012: Barra Ventilacion Atras058
+    100014: Barra Ventilacion Atras059
+    100016: Barra Ventilacion Atras060
+    100018: Barra Ventilacion Atras061
+    100020: Barra Ventilacion Atras062
+    100022: Barra Ventilacion Atras063
+    100024: Barra Ventilacion Atras064
+    100026: Barra Ventilacion Atras065
+    100028: Barra Ventilacion Atras066
+    100030: Barra Ventilacion Atras067
+    100032: Barra Ventilacion Atras068
+    100034: Barra Ventilacion Atras069
+    100036: Barra Ventilacion Atras070
+    100038: Barra Ventilacion Atras071
+    100040: Barra Ventilacion Atras072
+    100042: Barra Ventilacion Atras073
+    100044: Barra Ventilacion Atras074
+    100046: Barra Ventilacion Atras075
+    100048: Barra Ventilacion Atras076
+    100050: Barra Ventilacion Atras077
+    100052: Barra Ventilacion Atras078
+    100054: Barra Ventilacion Atras079
+    100056: Barra Ventilacion Atras080
+    100058: Barra Ventilacion Atras081
+    100060: Barra Ventilacion Atras082
+    100062: Barra Ventilacion Atras083
+    100064: Barra Ventilacion Atras084
+    100066: Barra Ventilacion Atras085
+    100068: Barra Ventilacion Atras086
+    100070: Barra Ventilacion Atras087
+    100072: Barra Ventilacion Atras088
+    100074: Barra Ventilacion Atras089
+    100076: Barra Ventilacion Atras090
+    100078: Barra Ventilacion Atras091
+    100080: Barra Ventilacion Atras092
+    100082: Barra Ventilacion Atras093
+    100084: Barra Ventilacion Atras094
+    100086: Barra Ventilacion Atras095
+    100088: Barra Ventilacion Atras096
+    100090: Barra Ventilacion Atras097
+    100092: Barra Ventilacion Atras098
+    100094: Barra Ventilacion Atras099
+    100096: Barra Ventilacion Atras100
+    100098: Barra Ventilacion Atras101
+    100100: Barra Ventilacion Atras102
+    100102: Barra Ventilacion Atras103
+    100104: BarrasVentilacionTruck004
+    100106: BarrasVentilacionTruck005
+    100108: BarrasVentilacionTruck006
+    100110: BarrasVentilacionTruck007
+    100112: Box057
+    100114: Box058
+    100116: Box059
+    100118: Box060
+    100120: Box061
+    100122: Box062
+    100124: Box063
+    100126: //RootNode
+    100128: Parrilla Frontal Truck001
+    100130: Rueda002
+    100132: Rueda003
+    100134: Rueda004
+    100136: Rueda1
+    100138: Truck_UV_Part_1
+    100140: Truck_UV_Part_10
+    100142: Truck_UV_Part_2
+    100144: Truck_UV_Part_3
+    100146: Truck_UV_Part_4
+    100148: Truck_UV_Part_5
+    100150: Truck_UV_Part_6
+    100152: Truck_UV_Part_7
+    100154: Truck_UV_Part_8
+    100156: Truck_UV_Part_9
+    100158: Barra Ventilacion Atras104
+    100160: Barra Ventilacion Atras105
+    100162: Barra Ventilacion Atras106
+    100164: Barra Ventilacion Atras107
+    100166: Barra Ventilacion Atras108
+    100168: Barra Ventilacion Atras109
+    100170: Barra Ventilacion Atras110
+    100172: Barra Ventilacion Atras111
+    100174: Barra Ventilacion Atras112
+    100176: Barra Ventilacion Atras113
+    100178: Barra Ventilacion Atras114
+    100180: Barra Ventilacion Atras115
+    100182: Barra Ventilacion Atras116
+    100184: Barra Ventilacion Atras117
+    100186: Barra Ventilacion Atras118
+    100188: Barra Ventilacion Atras119
+    100190: Barra Ventilacion Atras120
+    100192: Barra Ventilacion Atras121
+    100194: Barra Ventilacion Atras122
+    100196: Barra Ventilacion Atras123
+    100198: Barra Ventilacion Atras124
+    100200: Barra Ventilacion Atras125
+    100202: Barra Ventilacion Atras126
+    100204: Barra Ventilacion Atras127
+    100206: Barra Ventilacion Atras128
+    100208: Barra Ventilacion Atras129
+    100210: Barra Ventilacion Atras130
+    100212: Barra Ventilacion Atras131
+    100214: Barra Ventilacion Atras132
+    100216: Barra Ventilacion Atras133
+    100218: Barra Ventilacion Atras134
+    100220: Barra Ventilacion Atras135
+    100222: Barra Ventilacion Atras136
+    100224: Barra Ventilacion Atras137
+    100226: Barra Ventilacion Atras138
+    100228: Barra Ventilacion Atras139
+    100230: Barra Ventilacion Atras140
+    100232: Barra Ventilacion Atras141
+    100234: Barra Ventilacion Atras142
+    100236: Barra Ventilacion Atras143
+    100238: Barra Ventilacion Atras144
+    100240: Barra Ventilacion Atras145
+    100242: Barra Ventilacion Atras146
+    100244: Barra Ventilacion Atras147
+    100246: Barra Ventilacion Atras148
+    100248: Barra Ventilacion Atras149
+    100250: Barra Ventilacion Atras150
+    100252: Barra Ventilacion Atras151
+    100254: Barra Ventilacion Atras152
+    100256: Barra Ventilacion Atras153
+    100258: Barra Ventilacion Atras154
+    100260: Barra Ventilacion Atras155
+    100262: BarrasVentilacionTruck008
+    100264: BarrasVentilacionTruck009
+    100266: BarrasVentilacionTruck010
+    100268: BarrasVentilacionTruck011
+    100270: Box064
+    100272: Box065
+    100274: Box066
+    100276: Box067
+    100278: Box068
+    100280: Box069
+    100282: Box070
+    100284: FracturedTruck
+    100286: Parrilla Frontal Truck002
+    100288: Rueda005
+    100290: Rueda006
+    100292: Rueda007
+    100294: Rueda008
+    100296: Truck_UV001
+    100298: Truck_UV001_Part_1
+    100300: Truck_UV001_Part_10
+    100302: Truck_UV001_Part_11
+    100304: Truck_UV001_Part_12
+    100306: Truck_UV001_Part_13
+    100308: Truck_UV001_Part_14
+    100310: Truck_UV001_Part_15
+    100312: Truck_UV001_Part_16
+    100314: Truck_UV001_Part_17
+    100316: Truck_UV001_Part_18
+    100318: Truck_UV001_Part_19
+    100320: Truck_UV001_Part_2
+    100322: Truck_UV001_Part_20
+    100324: Truck_UV001_Part_21
+    100326: Truck_UV001_Part_22
+    100328: Truck_UV001_Part_23
+    100330: Truck_UV001_Part_24
+    100332: Truck_UV001_Part_25
+    100334: Truck_UV001_Part_26
+    100336: Truck_UV001_Part_27
+    100338: Truck_UV001_Part_28
+    100340: Truck_UV001_Part_29
+    100342: Truck_UV001_Part_3
+    100344: Truck_UV001_Part_30
+    100346: Truck_UV001_Part_31
+    100348: Truck_UV001_Part_32
+    100350: Truck_UV001_Part_33
+    100352: Truck_UV001_Part_34
+    100354: Truck_UV001_Part_35
+    100356: Truck_UV001_Part_36
+    100358: Truck_UV001_Part_37
+    100360: Truck_UV001_Part_38
+    100362: Truck_UV001_Part_39
+    100364: Truck_UV001_Part_4
+    100366: Truck_UV001_Part_40
+    100368: Truck_UV001_Part_5
+    100370: Truck_UV001_Part_6
+    100372: Truck_UV001_Part_7
+    100374: Truck_UV001_Part_8
+    100376: Truck_UV001_Part_9
+    400000: Barra Ventilacion Atras052
+    400002: Barra Ventilacion Atras053
+    400004: Barra Ventilacion Atras054
+    400006: Barra Ventilacion Atras055
+    400008: Barra Ventilacion Atras056
+    400010: Barra Ventilacion Atras057
+    400012: Barra Ventilacion Atras058
+    400014: Barra Ventilacion Atras059
+    400016: Barra Ventilacion Atras060
+    400018: Barra Ventilacion Atras061
+    400020: Barra Ventilacion Atras062
+    400022: Barra Ventilacion Atras063
+    400024: Barra Ventilacion Atras064
+    400026: Barra Ventilacion Atras065
+    400028: Barra Ventilacion Atras066
+    400030: Barra Ventilacion Atras067
+    400032: Barra Ventilacion Atras068
+    400034: Barra Ventilacion Atras069
+    400036: Barra Ventilacion Atras070
+    400038: Barra Ventilacion Atras071
+    400040: Barra Ventilacion Atras072
+    400042: Barra Ventilacion Atras073
+    400044: Barra Ventilacion Atras074
+    400046: Barra Ventilacion Atras075
+    400048: Barra Ventilacion Atras076
+    400050: Barra Ventilacion Atras077
+    400052: Barra Ventilacion Atras078
+    400054: Barra Ventilacion Atras079
+    400056: Barra Ventilacion Atras080
+    400058: Barra Ventilacion Atras081
+    400060: Barra Ventilacion Atras082
+    400062: Barra Ventilacion Atras083
+    400064: Barra Ventilacion Atras084
+    400066: Barra Ventilacion Atras085
+    400068: Barra Ventilacion Atras086
+    400070: Barra Ventilacion Atras087
+    400072: Barra Ventilacion Atras088
+    400074: Barra Ventilacion Atras089
+    400076: Barra Ventilacion Atras090
+    400078: Barra Ventilacion Atras091
+    400080: Barra Ventilacion Atras092
+    400082: Barra Ventilacion Atras093
+    400084: Barra Ventilacion Atras094
+    400086: Barra Ventilacion Atras095
+    400088: Barra Ventilacion Atras096
+    400090: Barra Ventilacion Atras097
+    400092: Barra Ventilacion Atras098
+    400094: Barra Ventilacion Atras099
+    400096: Barra Ventilacion Atras100
+    400098: Barra Ventilacion Atras101
+    400100: Barra Ventilacion Atras102
+    400102: Barra Ventilacion Atras103
+    400104: BarrasVentilacionTruck004
+    400106: BarrasVentilacionTruck005
+    400108: BarrasVentilacionTruck006
+    400110: BarrasVentilacionTruck007
+    400112: Box057
+    400114: Box058
+    400116: Box059
+    400118: Box060
+    400120: Box061
+    400122: Box062
+    400124: Box063
+    400126: //RootNode
+    400128: Parrilla Frontal Truck001
+    400130: Rueda002
+    400132: Rueda003
+    400134: Rueda004
+    400136: Rueda1
+    400138: Truck_UV_Part_1
+    400140: Truck_UV_Part_10
+    400142: Truck_UV_Part_2
+    400144: Truck_UV_Part_3
+    400146: Truck_UV_Part_4
+    400148: Truck_UV_Part_5
+    400150: Truck_UV_Part_6
+    400152: Truck_UV_Part_7
+    400154: Truck_UV_Part_8
+    400156: Truck_UV_Part_9
+    400158: Barra Ventilacion Atras104
+    400160: Barra Ventilacion Atras105
+    400162: Barra Ventilacion Atras106
+    400164: Barra Ventilacion Atras107
+    400166: Barra Ventilacion Atras108
+    400168: Barra Ventilacion Atras109
+    400170: Barra Ventilacion Atras110
+    400172: Barra Ventilacion Atras111
+    400174: Barra Ventilacion Atras112
+    400176: Barra Ventilacion Atras113
+    400178: Barra Ventilacion Atras114
+    400180: Barra Ventilacion Atras115
+    400182: Barra Ventilacion Atras116
+    400184: Barra Ventilacion Atras117
+    400186: Barra Ventilacion Atras118
+    400188: Barra Ventilacion Atras119
+    400190: Barra Ventilacion Atras120
+    400192: Barra Ventilacion Atras121
+    400194: Barra Ventilacion Atras122
+    400196: Barra Ventilacion Atras123
+    400198: Barra Ventilacion Atras124
+    400200: Barra Ventilacion Atras125
+    400202: Barra Ventilacion Atras126
+    400204: Barra Ventilacion Atras127
+    400206: Barra Ventilacion Atras128
+    400208: Barra Ventilacion Atras129
+    400210: Barra Ventilacion Atras130
+    400212: Barra Ventilacion Atras131
+    400214: Barra Ventilacion Atras132
+    400216: Barra Ventilacion Atras133
+    400218: Barra Ventilacion Atras134
+    400220: Barra Ventilacion Atras135
+    400222: Barra Ventilacion Atras136
+    400224: Barra Ventilacion Atras137
+    400226: Barra Ventilacion Atras138
+    400228: Barra Ventilacion Atras139
+    400230: Barra Ventilacion Atras140
+    400232: Barra Ventilacion Atras141
+    400234: Barra Ventilacion Atras142
+    400236: Barra Ventilacion Atras143
+    400238: Barra Ventilacion Atras144
+    400240: Barra Ventilacion Atras145
+    400242: Barra Ventilacion Atras146
+    400244: Barra Ventilacion Atras147
+    400246: Barra Ventilacion Atras148
+    400248: Barra Ventilacion Atras149
+    400250: Barra Ventilacion Atras150
+    400252: Barra Ventilacion Atras151
+    400254: Barra Ventilacion Atras152
+    400256: Barra Ventilacion Atras153
+    400258: Barra Ventilacion Atras154
+    400260: Barra Ventilacion Atras155
+    400262: BarrasVentilacionTruck008
+    400264: BarrasVentilacionTruck009
+    400266: BarrasVentilacionTruck010
+    400268: BarrasVentilacionTruck011
+    400270: Box064
+    400272: Box065
+    400274: Box066
+    400276: Box067
+    400278: Box068
+    400280: Box069
+    400282: Box070
+    400284: FracturedTruck
+    400286: Parrilla Frontal Truck002
+    400288: Rueda005
+    400290: Rueda006
+    400292: Rueda007
+    400294: Rueda008
+    400296: Truck_UV001
+    400298: Truck_UV001_Part_1
+    400300: Truck_UV001_Part_10
+    400302: Truck_UV001_Part_11
+    400304: Truck_UV001_Part_12
+    400306: Truck_UV001_Part_13
+    400308: Truck_UV001_Part_14
+    400310: Truck_UV001_Part_15
+    400312: Truck_UV001_Part_16
+    400314: Truck_UV001_Part_17
+    400316: Truck_UV001_Part_18
+    400318: Truck_UV001_Part_19
+    400320: Truck_UV001_Part_2
+    400322: Truck_UV001_Part_20
+    400324: Truck_UV001_Part_21
+    400326: Truck_UV001_Part_22
+    400328: Truck_UV001_Part_23
+    400330: Truck_UV001_Part_24
+    400332: Truck_UV001_Part_25
+    400334: Truck_UV001_Part_26
+    400336: Truck_UV001_Part_27
+    400338: Truck_UV001_Part_28
+    400340: Truck_UV001_Part_29
+    400342: Truck_UV001_Part_3
+    400344: Truck_UV001_Part_30
+    400346: Truck_UV001_Part_31
+    400348: Truck_UV001_Part_32
+    400350: Truck_UV001_Part_33
+    400352: Truck_UV001_Part_34
+    400354: Truck_UV001_Part_35
+    400356: Truck_UV001_Part_36
+    400358: Truck_UV001_Part_37
+    400360: Truck_UV001_Part_38
+    400362: Truck_UV001_Part_39
+    400364: Truck_UV001_Part_4
+    400366: Truck_UV001_Part_40
+    400368: Truck_UV001_Part_5
+    400370: Truck_UV001_Part_6
+    400372: Truck_UV001_Part_7
+    400374: Truck_UV001_Part_8
+    400376: Truck_UV001_Part_9
+    2100000: Truck_Mat
+    2100002: Ruedas Truck
+    2100004: No Name
+    2300000: Barra Ventilacion Atras052
+    2300002: Barra Ventilacion Atras053
+    2300004: Barra Ventilacion Atras054
+    2300006: Barra Ventilacion Atras055
+    2300008: Barra Ventilacion Atras056
+    2300010: Barra Ventilacion Atras057
+    2300012: Barra Ventilacion Atras058
+    2300014: Barra Ventilacion Atras059
+    2300016: Barra Ventilacion Atras060
+    2300018: Barra Ventilacion Atras061
+    2300020: Barra Ventilacion Atras062
+    2300022: Barra Ventilacion Atras063
+    2300024: Barra Ventilacion Atras064
+    2300026: Barra Ventilacion Atras065
+    2300028: Barra Ventilacion Atras066
+    2300030: Barra Ventilacion Atras067
+    2300032: Barra Ventilacion Atras068
+    2300034: Barra Ventilacion Atras069
+    2300036: Barra Ventilacion Atras070
+    2300038: Barra Ventilacion Atras071
+    2300040: Barra Ventilacion Atras072
+    2300042: Barra Ventilacion Atras073
+    2300044: Barra Ventilacion Atras074
+    2300046: Barra Ventilacion Atras075
+    2300048: Barra Ventilacion Atras076
+    2300050: Barra Ventilacion Atras077
+    2300052: Barra Ventilacion Atras078
+    2300054: Barra Ventilacion Atras079
+    2300056: Barra Ventilacion Atras080
+    2300058: Barra Ventilacion Atras081
+    2300060: Barra Ventilacion Atras082
+    2300062: Barra Ventilacion Atras083
+    2300064: Barra Ventilacion Atras084
+    2300066: Barra Ventilacion Atras085
+    2300068: Barra Ventilacion Atras086
+    2300070: Barra Ventilacion Atras087
+    2300072: Barra Ventilacion Atras088
+    2300074: Barra Ventilacion Atras089
+    2300076: Barra Ventilacion Atras090
+    2300078: Barra Ventilacion Atras091
+    2300080: Barra Ventilacion Atras092
+    2300082: Barra Ventilacion Atras093
+    2300084: Barra Ventilacion Atras094
+    2300086: Barra Ventilacion Atras095
+    2300088: Barra Ventilacion Atras096
+    2300090: Barra Ventilacion Atras097
+    2300092: Barra Ventilacion Atras098
+    2300094: Barra Ventilacion Atras099
+    2300096: Barra Ventilacion Atras100
+    2300098: Barra Ventilacion Atras101
+    2300100: Barra Ventilacion Atras102
+    2300102: Barra Ventilacion Atras103
+    2300104: Box057
+    2300106: Box058
+    2300108: Box059
+    2300110: Box060
+    2300112: Box061
+    2300114: Box062
+    2300116: Box063
+    2300118: Rueda002
+    2300120: Rueda003
+    2300122: Rueda004
+    2300124: Rueda1
+    2300126: Truck_UV_Part_1
+    2300128: Truck_UV_Part_10
+    2300130: Truck_UV_Part_2
+    2300132: Truck_UV_Part_3
+    2300134: Truck_UV_Part_4
+    2300136: Truck_UV_Part_5
+    2300138: Truck_UV_Part_6
+    2300140: Truck_UV_Part_7
+    2300142: Truck_UV_Part_8
+    2300144: Truck_UV_Part_9
+    2300146: Barra Ventilacion Atras104
+    2300148: Barra Ventilacion Atras105
+    2300150: Barra Ventilacion Atras106
+    2300152: Barra Ventilacion Atras107
+    2300154: Barra Ventilacion Atras108
+    2300156: Barra Ventilacion Atras109
+    2300158: Barra Ventilacion Atras110
+    2300160: Barra Ventilacion Atras111
+    2300162: Barra Ventilacion Atras112
+    2300164: Barra Ventilacion Atras113
+    2300166: Barra Ventilacion Atras114
+    2300168: Barra Ventilacion Atras115
+    2300170: Barra Ventilacion Atras116
+    2300172: Barra Ventilacion Atras117
+    2300174: Barra Ventilacion Atras118
+    2300176: Barra Ventilacion Atras119
+    2300178: Barra Ventilacion Atras120
+    2300180: Barra Ventilacion Atras121
+    2300182: Barra Ventilacion Atras122
+    2300184: Barra Ventilacion Atras123
+    2300186: Barra Ventilacion Atras124
+    2300188: Barra Ventilacion Atras125
+    2300190: Barra Ventilacion Atras126
+    2300192: Barra Ventilacion Atras127
+    2300194: Barra Ventilacion Atras128
+    2300196: Barra Ventilacion Atras129
+    2300198: Barra Ventilacion Atras130
+    2300200: Barra Ventilacion Atras131
+    2300202: Barra Ventilacion Atras132
+    2300204: Barra Ventilacion Atras133
+    2300206: Barra Ventilacion Atras134
+    2300208: Barra Ventilacion Atras135
+    2300210: Barra Ventilacion Atras136
+    2300212: Barra Ventilacion Atras137
+    2300214: Barra Ventilacion Atras138
+    2300216: Barra Ventilacion Atras139
+    2300218: Barra Ventilacion Atras140
+    2300220: Barra Ventilacion Atras141
+    2300222: Barra Ventilacion Atras142
+    2300224: Barra Ventilacion Atras143
+    2300226: Barra Ventilacion Atras144
+    2300228: Barra Ventilacion Atras145
+    2300230: Barra Ventilacion Atras146
+    2300232: Barra Ventilacion Atras147
+    2300234: Barra Ventilacion Atras148
+    2300236: Barra Ventilacion Atras149
+    2300238: Barra Ventilacion Atras150
+    2300240: Barra Ventilacion Atras151
+    2300242: Barra Ventilacion Atras152
+    2300244: Barra Ventilacion Atras153
+    2300246: Barra Ventilacion Atras154
+    2300248: Barra Ventilacion Atras155
+    2300250: Box064
+    2300252: Box065
+    2300254: Box066
+    2300256: Box067
+    2300258: Box068
+    2300260: Box069
+    2300262: Box070
+    2300264: Rueda005
+    2300266: Rueda006
+    2300268: Rueda007
+    2300270: Rueda008
+    2300272: Truck_UV001
+    2300274: Truck_UV001_Part_1
+    2300276: Truck_UV001_Part_10
+    2300278: Truck_UV001_Part_11
+    2300280: Truck_UV001_Part_12
+    2300282: Truck_UV001_Part_13
+    2300284: Truck_UV001_Part_14
+    2300286: Truck_UV001_Part_15
+    2300288: Truck_UV001_Part_16
+    2300290: Truck_UV001_Part_17
+    2300292: Truck_UV001_Part_18
+    2300294: Truck_UV001_Part_19
+    2300296: Truck_UV001_Part_2
+    2300298: Truck_UV001_Part_20
+    2300300: Truck_UV001_Part_21
+    2300302: Truck_UV001_Part_22
+    2300304: Truck_UV001_Part_23
+    2300306: Truck_UV001_Part_24
+    2300308: Truck_UV001_Part_25
+    2300310: Truck_UV001_Part_26
+    2300312: Truck_UV001_Part_27
+    2300314: Truck_UV001_Part_28
+    2300316: Truck_UV001_Part_29
+    2300318: Truck_UV001_Part_3
+    2300320: Truck_UV001_Part_30
+    2300322: Truck_UV001_Part_31
+    2300324: Truck_UV001_Part_32
+    2300326: Truck_UV001_Part_33
+    2300328: Truck_UV001_Part_34
+    2300330: Truck_UV001_Part_35
+    2300332: Truck_UV001_Part_36
+    2300334: Truck_UV001_Part_37
+    2300336: Truck_UV001_Part_38
+    2300338: Truck_UV001_Part_39
+    2300340: Truck_UV001_Part_4
+    2300342: Truck_UV001_Part_40
+    2300344: Truck_UV001_Part_5
+    2300346: Truck_UV001_Part_6
+    2300348: Truck_UV001_Part_7
+    2300350: Truck_UV001_Part_8
+    2300352: Truck_UV001_Part_9
+    3300000: Barra Ventilacion Atras052
+    3300002: Barra Ventilacion Atras053
+    3300004: Barra Ventilacion Atras054
+    3300006: Barra Ventilacion Atras055
+    3300008: Barra Ventilacion Atras056
+    3300010: Barra Ventilacion Atras057
+    3300012: Barra Ventilacion Atras058
+    3300014: Barra Ventilacion Atras059
+    3300016: Barra Ventilacion Atras060
+    3300018: Barra Ventilacion Atras061
+    3300020: Barra Ventilacion Atras062
+    3300022: Barra Ventilacion Atras063
+    3300024: Barra Ventilacion Atras064
+    3300026: Barra Ventilacion Atras065
+    3300028: Barra Ventilacion Atras066
+    3300030: Barra Ventilacion Atras067
+    3300032: Barra Ventilacion Atras068
+    3300034: Barra Ventilacion Atras069
+    3300036: Barra Ventilacion Atras070
+    3300038: Barra Ventilacion Atras071
+    3300040: Barra Ventilacion Atras072
+    3300042: Barra Ventilacion Atras073
+    3300044: Barra Ventilacion Atras074
+    3300046: Barra Ventilacion Atras075
+    3300048: Barra Ventilacion Atras076
+    3300050: Barra Ventilacion Atras077
+    3300052: Barra Ventilacion Atras078
+    3300054: Barra Ventilacion Atras079
+    3300056: Barra Ventilacion Atras080
+    3300058: Barra Ventilacion Atras081
+    3300060: Barra Ventilacion Atras082
+    3300062: Barra Ventilacion Atras083
+    3300064: Barra Ventilacion Atras084
+    3300066: Barra Ventilacion Atras085
+    3300068: Barra Ventilacion Atras086
+    3300070: Barra Ventilacion Atras087
+    3300072: Barra Ventilacion Atras088
+    3300074: Barra Ventilacion Atras089
+    3300076: Barra Ventilacion Atras090
+    3300078: Barra Ventilacion Atras091
+    3300080: Barra Ventilacion Atras092
+    3300082: Barra Ventilacion Atras093
+    3300084: Barra Ventilacion Atras094
+    3300086: Barra Ventilacion Atras095
+    3300088: Barra Ventilacion Atras096
+    3300090: Barra Ventilacion Atras097
+    3300092: Barra Ventilacion Atras098
+    3300094: Barra Ventilacion Atras099
+    3300096: Barra Ventilacion Atras100
+    3300098: Barra Ventilacion Atras101
+    3300100: Barra Ventilacion Atras102
+    3300102: Barra Ventilacion Atras103
+    3300104: Box057
+    3300106: Box058
+    3300108: Box059
+    3300110: Box060
+    3300112: Box061
+    3300114: Box062
+    3300116: Box063
+    3300118: Rueda002
+    3300120: Rueda003
+    3300122: Rueda004
+    3300124: Rueda1
+    3300126: Truck_UV_Part_1
+    3300128: Truck_UV_Part_10
+    3300130: Truck_UV_Part_2
+    3300132: Truck_UV_Part_3
+    3300134: Truck_UV_Part_4
+    3300136: Truck_UV_Part_5
+    3300138: Truck_UV_Part_6
+    3300140: Truck_UV_Part_7
+    3300142: Truck_UV_Part_8
+    3300144: Truck_UV_Part_9
+    3300146: Barra Ventilacion Atras104
+    3300148: Barra Ventilacion Atras105
+    3300150: Barra Ventilacion Atras106
+    3300152: Barra Ventilacion Atras107
+    3300154: Barra Ventilacion Atras108
+    3300156: Barra Ventilacion Atras109
+    3300158: Barra Ventilacion Atras110
+    3300160: Barra Ventilacion Atras111
+    3300162: Barra Ventilacion Atras112
+    3300164: Barra Ventilacion Atras113
+    3300166: Barra Ventilacion Atras114
+    3300168: Barra Ventilacion Atras115
+    3300170: Barra Ventilacion Atras116
+    3300172: Barra Ventilacion Atras117
+    3300174: Barra Ventilacion Atras118
+    3300176: Barra Ventilacion Atras119
+    3300178: Barra Ventilacion Atras120
+    3300180: Barra Ventilacion Atras121
+    3300182: Barra Ventilacion Atras122
+    3300184: Barra Ventilacion Atras123
+    3300186: Barra Ventilacion Atras124
+    3300188: Barra Ventilacion Atras125
+    3300190: Barra Ventilacion Atras126
+    3300192: Barra Ventilacion Atras127
+    3300194: Barra Ventilacion Atras128
+    3300196: Barra Ventilacion Atras129
+    3300198: Barra Ventilacion Atras130
+    3300200: Barra Ventilacion Atras131
+    3300202: Barra Ventilacion Atras132
+    3300204: Barra Ventilacion Atras133
+    3300206: Barra Ventilacion Atras134
+    3300208: Barra Ventilacion Atras135
+    3300210: Barra Ventilacion Atras136
+    3300212: Barra Ventilacion Atras137
+    3300214: Barra Ventilacion Atras138
+    3300216: Barra Ventilacion Atras139
+    3300218: Barra Ventilacion Atras140
+    3300220: Barra Ventilacion Atras141
+    3300222: Barra Ventilacion Atras142
+    3300224: Barra Ventilacion Atras143
+    3300226: Barra Ventilacion Atras144
+    3300228: Barra Ventilacion Atras145
+    3300230: Barra Ventilacion Atras146
+    3300232: Barra Ventilacion Atras147
+    3300234: Barra Ventilacion Atras148
+    3300236: Barra Ventilacion Atras149
+    3300238: Barra Ventilacion Atras150
+    3300240: Barra Ventilacion Atras151
+    3300242: Barra Ventilacion Atras152
+    3300244: Barra Ventilacion Atras153
+    3300246: Barra Ventilacion Atras154
+    3300248: Barra Ventilacion Atras155
+    3300250: Box064
+    3300252: Box065
+    3300254: Box066
+    3300256: Box067
+    3300258: Box068
+    3300260: Box069
+    3300262: Box070
+    3300264: Rueda005
+    3300266: Rueda006
+    3300268: Rueda007
+    3300270: Rueda008
+    3300272: Truck_UV001
+    3300274: Truck_UV001_Part_1
+    3300276: Truck_UV001_Part_10
+    3300278: Truck_UV001_Part_11
+    3300280: Truck_UV001_Part_12
+    3300282: Truck_UV001_Part_13
+    3300284: Truck_UV001_Part_14
+    3300286: Truck_UV001_Part_15
+    3300288: Truck_UV001_Part_16
+    3300290: Truck_UV001_Part_17
+    3300292: Truck_UV001_Part_18
+    3300294: Truck_UV001_Part_19
+    3300296: Truck_UV001_Part_2
+    3300298: Truck_UV001_Part_20
+    3300300: Truck_UV001_Part_21
+    3300302: Truck_UV001_Part_22
+    3300304: Truck_UV001_Part_23
+    3300306: Truck_UV001_Part_24
+    3300308: Truck_UV001_Part_25
+    3300310: Truck_UV001_Part_26
+    3300312: Truck_UV001_Part_27
+    3300314: Truck_UV001_Part_28
+    3300316: Truck_UV001_Part_29
+    3300318: Truck_UV001_Part_3
+    3300320: Truck_UV001_Part_30
+    3300322: Truck_UV001_Part_31
+    3300324: Truck_UV001_Part_32
+    3300326: Truck_UV001_Part_33
+    3300328: Truck_UV001_Part_34
+    3300330: Truck_UV001_Part_35
+    3300332: Truck_UV001_Part_36
+    3300334: Truck_UV001_Part_37
+    3300336: Truck_UV001_Part_38
+    3300338: Truck_UV001_Part_39
+    3300340: Truck_UV001_Part_4
+    3300342: Truck_UV001_Part_40
+    3300344: Truck_UV001_Part_5
+    3300346: Truck_UV001_Part_6
+    3300348: Truck_UV001_Part_7
+    3300350: Truck_UV001_Part_8
+    3300352: Truck_UV001_Part_9
+    4300000: Truck_UV_Part_7
+    4300002: Rueda002
+    4300004: Truck_UV_Part_1
+    4300006: Truck_UV_Part_2
+    4300008: Truck_UV_Part_8
+    4300010: Truck_UV_Part_5
+    4300012: Rueda003
+    4300014: Rueda004
+    4300016: Truck_UV_Part_9
+    4300018: Truck_UV_Part_3
+    4300020: Truck_UV_Part_6
+    4300022: Rueda1
+    4300024: Truck_UV_Part_4
+    4300026: Truck_UV_Part_10
+    4300028: Barra Ventilacion Atras052
+    4300030: Barra Ventilacion Atras053
+    4300032: Barra Ventilacion Atras054
+    4300034: Barra Ventilacion Atras055
+    4300036: Barra Ventilacion Atras056
+    4300038: Barra Ventilacion Atras057
+    4300040: Barra Ventilacion Atras058
+    4300042: Barra Ventilacion Atras059
+    4300044: Barra Ventilacion Atras060
+    4300046: Barra Ventilacion Atras061
+    4300048: Barra Ventilacion Atras062
+    4300050: Barra Ventilacion Atras063
+    4300052: Barra Ventilacion Atras064
+    4300054: Barra Ventilacion Atras091
+    4300056: Barra Ventilacion Atras092
+    4300058: Barra Ventilacion Atras093
+    4300060: Barra Ventilacion Atras094
+    4300062: Barra Ventilacion Atras095
+    4300064: Barra Ventilacion Atras096
+    4300066: Barra Ventilacion Atras097
+    4300068: Barra Ventilacion Atras098
+    4300070: Barra Ventilacion Atras099
+    4300072: Barra Ventilacion Atras100
+    4300074: Barra Ventilacion Atras101
+    4300076: Barra Ventilacion Atras102
+    4300078: Barra Ventilacion Atras103
+    4300080: Box057
+    4300082: Box058
+    4300084: Box059
+    4300086: Box060
+    4300088: Box061
+    4300090: Box062
+    4300092: Box063
+    4300094: Barra Ventilacion Atras065
+    4300096: Barra Ventilacion Atras066
+    4300098: Barra Ventilacion Atras067
+    4300100: Barra Ventilacion Atras068
+    4300102: Barra Ventilacion Atras069
+    4300104: Barra Ventilacion Atras070
+    4300106: Barra Ventilacion Atras071
+    4300108: Barra Ventilacion Atras072
+    4300110: Barra Ventilacion Atras073
+    4300112: Barra Ventilacion Atras074
+    4300114: Barra Ventilacion Atras075
+    4300116: Barra Ventilacion Atras076
+    4300118: Barra Ventilacion Atras077
+    4300120: Barra Ventilacion Atras078
+    4300122: Barra Ventilacion Atras079
+    4300124: Barra Ventilacion Atras080
+    4300126: Barra Ventilacion Atras081
+    4300128: Barra Ventilacion Atras082
+    4300130: Barra Ventilacion Atras083
+    4300132: Barra Ventilacion Atras084
+    4300134: Barra Ventilacion Atras085
+    4300136: Barra Ventilacion Atras086
+    4300138: Barra Ventilacion Atras087
+    4300140: Barra Ventilacion Atras088
+    4300142: Barra Ventilacion Atras089
+    4300144: Barra Ventilacion Atras090
+    4300146: Rueda005
+    4300148: Rueda006
+    4300150: Rueda007
+    4300152: Rueda008
+    4300154: Truck_UV001
+    4300156: Barra Ventilacion Atras104
+    4300158: Barra Ventilacion Atras105
+    4300160: Barra Ventilacion Atras107
+    4300162: Barra Ventilacion Atras116
+    4300164: Barra Ventilacion Atras124
+    4300166: Barra Ventilacion Atras127
+    4300168: Barra Ventilacion Atras130
+    4300170: Barra Ventilacion Atras131
+    4300172: Barra Ventilacion Atras137
+    4300174: Barra Ventilacion Atras139
+    4300176: Barra Ventilacion Atras140
+    4300178: Barra Ventilacion Atras143
+    4300180: Barra Ventilacion Atras144
+    4300182: Barra Ventilacion Atras122
+    4300184: Barra Ventilacion Atras123
+    4300186: Barra Ventilacion Atras126
+    4300188: Barra Ventilacion Atras136
+    4300190: Barra Ventilacion Atras147
+    4300192: Barra Ventilacion Atras148
+    4300194: Barra Ventilacion Atras149
+    4300196: Barra Ventilacion Atras150
+    4300198: Barra Ventilacion Atras151
+    4300200: Barra Ventilacion Atras152
+    4300202: Barra Ventilacion Atras153
+    4300204: Barra Ventilacion Atras154
+    4300206: Barra Ventilacion Atras155
+    4300208: Barra Ventilacion Atras106
+    4300210: Barra Ventilacion Atras112
+    4300212: Barra Ventilacion Atras113
+    4300214: Barra Ventilacion Atras114
+    4300216: Barra Ventilacion Atras115
+    4300218: Barra Ventilacion Atras120
+    4300220: Barra Ventilacion Atras128
+    4300222: Barra Ventilacion Atras129
+    4300224: Barra Ventilacion Atras138
+    4300226: Barra Ventilacion Atras141
+    4300228: Barra Ventilacion Atras142
+    4300230: Barra Ventilacion Atras145
+    4300232: Barra Ventilacion Atras146
+    4300234: Box064
+    4300236: Box065
+    4300238: Box066
+    4300240: Box067
+    4300242: Box068
+    4300244: Box069
+    4300246: Box070
+    4300248: Barra Ventilacion Atras108
+    4300250: Barra Ventilacion Atras109
+    4300252: Barra Ventilacion Atras110
+    4300254: Barra Ventilacion Atras111
+    4300256: Barra Ventilacion Atras117
+    4300258: Barra Ventilacion Atras118
+    4300260: Barra Ventilacion Atras119
+    4300262: Barra Ventilacion Atras121
+    4300264: Barra Ventilacion Atras125
+    4300266: Barra Ventilacion Atras132
+    4300268: Barra Ventilacion Atras133
+    4300270: Barra Ventilacion Atras134
+    4300272: Barra Ventilacion Atras135
+    4300274: Truck_UV001_Part_1
+    4300276: Truck_UV001_Part_2
+    4300278: Truck_UV001_Part_3
+    4300280: Truck_UV001_Part_4
+    4300282: Truck_UV001_Part_5
+    4300284: Truck_UV001_Part_6
+    4300286: Truck_UV001_Part_7
+    4300288: Truck_UV001_Part_8
+    4300290: Truck_UV001_Part_9
+    4300292: Truck_UV001_Part_10
+    4300294: Truck_UV001_Part_11
+    4300296: Truck_UV001_Part_12
+    4300298: Truck_UV001_Part_13
+    4300300: Truck_UV001_Part_14
+    4300302: Truck_UV001_Part_15
+    4300304: Truck_UV001_Part_16
+    4300306: Truck_UV001_Part_17
+    4300308: Truck_UV001_Part_18
+    4300310: Truck_UV001_Part_19
+    4300312: Truck_UV001_Part_20
+    4300314: Truck_UV001_Part_21
+    4300316: Truck_UV001_Part_22
+    4300318: Truck_UV001_Part_23
+    4300320: Truck_UV001_Part_24
+    4300322: Truck_UV001_Part_25
+    4300324: Truck_UV001_Part_26
+    4300326: Truck_UV001_Part_27
+    4300328: Truck_UV001_Part_28
+    4300330: Truck_UV001_Part_29
+    4300332: Truck_UV001_Part_30
+    4300334: Truck_UV001_Part_31
+    4300336: Truck_UV001_Part_32
+    4300338: Truck_UV001_Part_33
+    4300340: Truck_UV001_Part_34
+    4300342: Truck_UV001_Part_35
+    4300344: Truck_UV001_Part_36
+    4300346: Truck_UV001_Part_37
+    4300348: Truck_UV001_Part_38
+    4300350: Truck_UV001_Part_39
+    4300352: Truck_UV001_Part_40
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
