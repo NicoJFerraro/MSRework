@@ -51,7 +51,7 @@ public class Pinches : MonoBehaviour
         mat = new Material(shad);
         GetComponent<Renderer>().material = mat;
         inter = 0;
-        radius = -1;
+        radius = 0;
         isgoinup = false;
         iswarning = false;
         isgoindown = false;
@@ -59,7 +59,6 @@ public class Pinches : MonoBehaviour
         mat.SetTexture("_Normal", normal);
         mat.SetTexture("_Metallic", metallic);
         mat.SetTexture("_Emission", emition);
-        mat.SetVector("_CenterPos", transform.position);
         StartCoroutine(WaitForWarning());
     }
 
@@ -76,11 +75,11 @@ public class Pinches : MonoBehaviour
 
     public void Warning()
     {
-        if (radius < 0.6f)
-            radius += Time.deltaTime / timeavisando * 1.25f ;
+        if (radius < 1)
+            radius += Time.deltaTime / timeavisando ;
         else
         {
-            radius = 0.6f;
+            radius = 1;
             StartCoroutine(WaitForSubiendo2());
         }
     }
@@ -170,7 +169,7 @@ public class Pinches : MonoBehaviour
         float rando = Random.Range(-0.5f, 0.5f);
         yield return new WaitForSeconds(timeactivo + rando);
         isgoindown = true;
-        radius = -1;
+        radius = 0;
 
     }
 }

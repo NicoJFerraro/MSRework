@@ -101,5 +101,6 @@ Material:
     - __dirty: 0
     m_Colors:
     - _Color: {r: 0.23584908, g: 0.1546369, b: 0.1546369, a: 1}
-    - _EmissionColor: {r: 4, g: 4, b: 4, a: 1}
-    - _PlayerColor: {r: 0.6320754, g: 0.6320754, b: 0.6320754, a: 0}
+    - _EmissionColor: {r: 2.433572, g: 2.433572, b: 2.433572, a: 1}
+    - _PlayerColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

@@ -160,13 +160,13 @@ MonoBehaviour:
     value: {x: 0.5, y: 0.5}
   intensity:
     overrideState: 1
-    value: 0.45
+    value: 0.4
   smoothness:
     overrideState: 1
     value: 0.75
   roundness:
     overrideState: 1
-    value: 0.8
+    value: 0.7
   rounded:
     overrideState: 0
     value: 0
@@ -195,7 +195,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 10
+    value: 4
   threshold:
     overrideState: 1
     value: 0.95

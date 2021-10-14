@@ -113,7 +113,13 @@ public class MainMenu : MonoBehaviour
             mpb.SetFloat("_Offset", limit);
             pantallas[curretnbutton].GetComponent<Renderer>().SetPropertyBlock(mpb);
         }
-        
+        else
+        {
+            leds[curretnbutton].GetComponent<Renderer>().GetPropertyBlock(mpb);
+            mpb.SetFloat("_Offset", limit);
+            leds[curretnbutton].GetComponent<Renderer>().SetPropertyBlock(mpb);
+        }
+
         if (!ispantallas)
             Player1Controller();
         else
